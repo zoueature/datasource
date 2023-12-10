@@ -1,7 +1,7 @@
 package datasource
 
 import (
-	"gitlab.jiebu.com/base/config"
+	"github.com/zoueature/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

@@ -3,7 +3,7 @@ module gitlab.jiebu.com/base/datasource
 go 1.21.4
 
 require (
-	gitlab.jiebu.com/base/config v0.0.6
+	github.com/zoueature/config v0.0.4
 	gorm.io/driver/mysql v1.5.2
 	gorm.io/gorm v1.25.5
 )

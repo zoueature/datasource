@@ -1,4 +1,4 @@
-module gitlab.jiebu.com/base/datasource
+module github.com/zoueature/datasource
 
 go 1.21.4
 
